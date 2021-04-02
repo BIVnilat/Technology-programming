@@ -1,0 +1,2 @@
+{"_id":{"$oid":"60661f442d3719ae601427a2"},"value":"hi","createdAt":{"$date":{"$numberLong":"1617305412826"}},"updatedAt":{"$date":{"$numberLong":"1617305412826"}},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"606624f4859d3fb8ed5fc689"},"value":"byeee","createdAt":{"$date":{"$numberLong":"1617306868776"}},"updatedAt":{"$date":{"$numberLong":"1617309806206"}},"__v":{"$numberInt":"0"}}
